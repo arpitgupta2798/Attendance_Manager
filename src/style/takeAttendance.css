@@ -1,0 +1,10 @@
+.position-fixed {
+  position: fixed;
+  bottom: 100px;
+  left: 130px;
+  height: 180px;
+  width: 335px;
+  border-radius: 10px;
+  background-color: rgba(49, 186, 250, 0.863);
+  /* background-color: rgba(15, 235, 217, 0.514); */
+}

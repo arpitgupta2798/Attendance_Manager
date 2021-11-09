@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.cont1 {
+  border: 1px solid grey;
+  /* box-shadow: 1px solid red; */
+  height: 550px;
+}
+
+.contantBox {
+  height: 400px;
+  overflow: scroll;
+}
